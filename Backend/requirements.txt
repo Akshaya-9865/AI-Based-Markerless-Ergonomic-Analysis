@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.12
+pydantic==2.10.3
+
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.11.4
+matplotlib==3.8.4
+
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+
+reportlab==4.2.5
+pillow==10.4.0
+pydantic-settings>=2.0
